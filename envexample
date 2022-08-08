@@ -1,0 +1,7 @@
+CLOUD_NAME = _____________
+CLOUD_API_KEY = ______________
+CLOUD_API_SECRET = _____
+PORT = _____
+MONGODB_CONNECTION_STRING = ___________
+JWT_SECRET = ___________
+JWT_LIFETIME=___________
